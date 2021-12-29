@@ -15,4 +15,10 @@ public class Invoice {
 		
 	}
 
+	/**
+	 * @author AE-1
+	 */
+	public void createInvoice(String name , String email) {
+		
+	}
 }
