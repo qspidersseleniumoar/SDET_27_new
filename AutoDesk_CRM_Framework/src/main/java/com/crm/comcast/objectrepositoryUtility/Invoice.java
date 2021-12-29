@@ -14,7 +14,7 @@ public class Invoice {
 	public void deleteInvoice() {
 		
 	}
-
+  
 	/**
 	 * @author AE-1
 	 */
