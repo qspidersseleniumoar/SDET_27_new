@@ -7,5 +7,12 @@ public class Invoice {
 	public void createInvoice() {
 		
 	}
+	
+	/**
+	 * @author AE-2
+	 */
+	public void deleteInvoice() {
+		
+	}
 
 }
